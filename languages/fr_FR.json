@@ -5,7 +5,7 @@
             "afternoon": "Good Afternoon, {display_name}.",
             "evening": "Good Evening, {display_name}. ",
             "night": "Good Night, {display_name}.",
-            "welcome": " Welcome to Strafe, let's get started."
+            "welcome": " Bienvenue sur Strafe, tout d'abord, préparons-nous."
         }
     }
 }
