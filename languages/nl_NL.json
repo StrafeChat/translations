@@ -1,168 +1,168 @@
 {
     "home_page": {
-        "header": "Home",
+        "header": "Startpagina",
         "greeting": {
-            "morning": "Good Morning, {display_name}.",
-            "afternoon": "Good Afternoon, {display_name}.",
-            "evening": "Good Evening, {display_name}. ",
-            "night": "Good Night, {display_name}.",
+            "morning": "Goedemorgen, {display_name}.",
+            "afternoon": "Goedendag, {display_name}.",
+            "evening": "Goedeavond, {display_name}. ",
+            "night": "Goede nacht: {display_name}.",
             "welcome": " Welcome to Strafe, let's get started."
         },
         "nav_buttons": {
             "create_space": {
-                "title": "Create a Space",
-                "description": "Build and customize YOUR comunity, YOUR way."
+                "title": "Maak een ruimte",
+                "description": "Bouw en pas JOUW gemeenschap, JOUW manier."
             },
             "discover": {
-                "title": "Discover Strafe",
-                "description": "Find interests! Discover bots, spaces, and more!"
+                "title": "Ontdekken Strafe",
+                "description": "Vind belangen! Ontdek bots, ruimtes en meer!"
             },
             "settings": {
-                "title": "Explore Settings",
-                "description": "Use Strafe YOUR way, customize your experience."
+                "title": "Gebruikersinstellingen",
+                "description": "Gebruik JOUW manier om je ervaring aan te passen."
             },
             "updated": {
-                "title": "Stay Updated",
-                "description": "Join the official Strafe Space to stay updated!"
+                "title": "Blijf geüpdatet",
+                "description": "Kom bij de officiële Strafe Space om op de hoogte te blijven!"
             }
         },
         "latest_updates": {
-            "title": "Latest Updates"
+            "title": "Laatste updates"
         }
     },
     "friends_page": {
-        "header": "Friends"
+        "header": "Vrienden"
     },
     "notes_page": {
-        "header": "Notes"
+        "header": "Aantekeningen"
     },
     "pm_page": {
-        "message_placeholder": "Message @{display_name}"
+        "message_placeholder": "Bericht @{display_name}"
     },
     "space": {
         "room": {
-            "message_placeholder": "Message #{channel_name}"
+            "message_placeholder": "Bericht #{channel_name}"
         }
     },
     "modals": {
         "create_space": {
-            "title": "Create Space",
+            "title": "Voeg een space toe",
             "input": {
-                "title": "Space Name",
-                "placeholder": "My Awesome Space"
+                "title": "Ruimtenaam",
+                "placeholder": "Mijn fantastische ruimte"
             },
             "buttons": {
-                "create": "Create",
-                "cancel": "Cancel"
+                "create": "Creëren",
+                "cancel": "Terug"
             },
-            "switch": "Join a Space instead?"
+            "switch": "Heb je al een uitnodiging?"
         },
         "join_space": {
-            "title": "Join a space",
+            "title": "Aan space deelnemen",
             "input": {
-                "title": "Invite Code",
+                "title": "Uitnodigingslink",
                 "placeholder": "1a2b3c"
             },
             "buttons": {
-                "join": "Join",
-                "cancel": "Cancel"
+                "join": "Word lid van space",
+                "cancel": "Terug"
             },
-            "switch": "Create a space instead?"
+            "switch": "Zelf één creëren?"
         },
         "custom_status": {
-            "title": "Set a custom status",
+            "title": "Gepersonaliseerde status instellen",
             "buttons": {
-                "save": "Save",
-                "cancel": "Cancel"
+                "save": "Opslaan",
+                "cancel": "Annuleren"
             }
         },
         "settings": {
             "navbar": {
                 "user_settings": {
-                    "header": "User Settings",
-                    "my_account": "My Account",
-                    "profile": "Profile",
-                    "authorized_apps": "Authorized Apps"
+                    "header": "Gebruikersinstellingen",
+                    "my_account": "Mijn Account",
+                    "profile": "Profielen",
+                    "authorized_apps": "Goedgekeurde apps"
                 },
                 "app_settings": {
-                    "header": "App Settings",
-                    "notifications": "Notifications",
-                    "desktop": "Desktop"
+                    "header": "App Instellingen",
+                    "notifications": "Meldingen",
+                    "desktop": "Windows-instellingen"
                 },
                 "others": {
-                    "logout": "Logout"
+                    "logout": "Afmelden"
                 }
             },
             "my_account": {
-                "header": "My Account",
+                "header": "Mijn Account",
                 "edit_data_01": {
                     "username": {
-                        "title": "Username",
+                        "title": "Weergavenaam",
                         "buttons": {
-                            "edit": "Edit"
+                            "edit": "Bewerken"
                         }
                     },
                     "discriminator": {
-                        "title": "Discriminator",
+                        "title": "Onderscheidingsteken",
                         "buttons": {
-                            "edit": "Edit"
+                            "edit": "Bewerken"
                         }
                     },
                     "email": {
                         "title": "Email",
                         "buttons": {
-                            "edit": "Edit"
+                            "edit": "Bewerken"
                         }
                     },
                     "password": {
-                        "title": "Password",
+                        "title": "Wachtwoord",
                         "buttons": {
-                            "edit": "Edit"
+                            "edit": "Bewerken"
                         }
                     },
                     "phone_number": {
-                        "title": "Phone Number",
-                        "placeholder": "No Phone Number Set",
+                        "title": "Telefoonnummer",
+                        "placeholder": "Geen telefoonnummer ingesteld",
                         "buttons": {
-                            "edit": "Edit"
+                            "edit": "Bewerken"
                         }
                     }
                 },
                 "edit-data-02": {
                     "2fa": {
-                        "enabled": "Enabled",
-                        "disabled": "Disabled"
+                        "enabled": "Ingeschakeld",
+                        "disabled": "Uitgeschakeld"
                     },
                     "buttons": {
                         "delete_account": {
-                            "title": "Delete Account"
+                            "title": "Verwijder account"
                         }
                     }
                 }
             },
             "profile": {
-                "header": "Profile"
+                "header": "Profielen"
             },
             "authorized_apps": {
-                "header": "Authorized Apps"
+                "header": "Goedgekeurde apps"
             },
             "notifications": {
-                "header": "Notifications"
+                "header": "Meldingen"
             },
             "desktop": {
-                "header": "Desktop"
+                "header": "Windows-instellingen"
             }
         }
     },
     "context_menus": {
         "user_avatar": {
-            "settings": "Settings",
-            "online": "Online",
-            "idle": "Idle",
+            "settings": "Instellingen",
+            "online": "Beschikbaar",
+            "idle": "Inactief",
             "coding": "Coding",
-            "do_not_disturb": "Do Not Disturb",
-            "invisible": "Invisible",
-            "custom_status": "Custom Status"
+            "do_not_disturb": "Niet storen",
+            "invisible": "Onzichtbaar",
+            "custom_status": "Gepersonaliseerde status instellen"
         }
     }
 }
