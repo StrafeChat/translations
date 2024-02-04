@@ -6,7 +6,7 @@
             "afternoon": "Goedendag, {display_name}.",
             "evening": "Goedeavond, {display_name}. ",
             "night": "Goede nacht: {display_name}.",
-            "welcome": " Welcome to Strafe, let's get started."
+            "welcome": "Welcome to Strafe, let's get started."
         },
         "nav_buttons": {
             "create_space": {
@@ -18,7 +18,7 @@
                 "description": "Vind belangen! Ontdek bots, ruimtes en meer!"
             },
             "settings": {
-                "title": "Gebruikersinstellingen",
+                "title": "Instellingen verkennen",
                 "description": "Gebruik JOUW manier om je ervaring aan te passen."
             },
             "updated": {
