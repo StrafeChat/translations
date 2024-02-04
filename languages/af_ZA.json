@@ -1,6 +1,6 @@
 {
     "home_page": {
-        "header": "Home",
+        "header": "Huis",
         "greeting": {
             "morning": "Goeie More, {display_name}.",
             "afternoon": "Goeie Middag, {display_name}.",
@@ -99,70 +99,70 @@
                     "username": {
                         "title": "Gebruikersnaam",
                         "buttons": {
-                            "edit": "Redigeer"
+                            "edit": "Verander"
                         }
                     },
                     "discriminator": {
-                        "title": "Discriminator",
+                        "title": "Onderskeidingsteken",
                         "buttons": {
-                            "edit": "Edit"
+                            "edit": "Verander"
                         }
                     },
                     "email": {
-                        "title": "Email",
+                        "title": "E-pos",
                         "buttons": {
-                            "edit": "Edit"
+                            "edit": "Verander"
                         }
                     },
                     "password": {
-                        "title": "Password",
+                        "title": "Wagwoord",
                         "buttons": {
-                            "edit": "Edit"
+                            "edit": "Verander"
                         }
                     },
                     "phone_number": {
-                        "title": "Phone Number",
-                        "placeholder": "No Phone Number Set",
+                        "title": "Foon Nommer",
+                        "placeholder": "Geen Foonnommer Ingestel",
                         "buttons": {
-                            "edit": "Edit"
+                            "edit": "Verander"
                         }
                     }
                 },
                 "edit-data-02": {
                     "2fa": {
-                        "enabled": "Enabled",
-                        "disabled": "Disabled"
+                        "enabled": "Aangeskakel",
+                        "disabled": "Afgeskakel"
                     },
                     "buttons": {
                         "delete_account": {
-                            "title": "Delete Account"
+                            "title": "Afvee Rekening"
                         }
                     }
                 }
             },
             "profile": {
-                "header": "Profile"
+                "header": "Profiel"
             },
             "authorized_apps": {
-                "header": "Authorized Apps"
+                "header": "Programme Toegelaat"
             },
             "notifications": {
-                "header": "Notifications"
+                "header": "Kennisgewings"
             },
             "desktop": {
-                "header": "Desktop"
+                "header": "Rekenaar"
             }
         }
     },
     "context_menus": {
         "user_avatar": {
-            "settings": "Settings",
-            "online": "Online",
-            "idle": "Idle",
-            "coding": "Coding",
-            "do_not_disturb": "Do Not Disturb",
-            "invisible": "Invisible",
-            "custom_status": "Custom Status"
+            "settings": "Opsies",
+            "online": "Aanlyn",
+            "idle": "Weg",
+            "coding": "Kodering",
+            "do_not_disturb": "Moenie Steur Nie",
+            "invisible": "Onsigbaar",
+            "custom_status": "Persoonlike Status"
         }
     }
 }
