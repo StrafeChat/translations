@@ -6,7 +6,7 @@
             "afternoon": "Bonjour, {display_name}.",
             "evening": "Bonjour, {display_name}. ",
             "night": "Bonsoir, {display_name}.",
-            "welcome": "Welcome to Strafe, let's get started."
+            "welcome": " Bienvenue sur Strafe, tout d'abord, préparons-nous."
         },
         "nav_buttons": {
             "create_space": {
