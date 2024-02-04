@@ -2,104 +2,104 @@
     "home_page": {
         "header": "Home",
         "greeting": {
-            "morning": "Good Morning, {display_name}.",
-            "afternoon": "Good Afternoon, {display_name}.",
-            "evening": "Good Evening, {display_name}. ",
-            "night": "Good Night, {display_name}.",
+            "morning": "Goeie More, {display_name}.",
+            "afternoon": "Goeie Middag, {display_name}.",
+            "evening": "Goeie Aand, {display_name}. ",
+            "night": "Goeie Aand, {display_name}.",
             "welcome": " Welcome to Strafe, let's get started."
         },
         "nav_buttons": {
             "create_space": {
-                "title": "Create a Space",
-                "description": "Build and customize YOUR comunity, YOUR way."
+                "title": "Maak 'n Ruimte",
+                "description": "Bou en pas JOU gemeenskap aan, op JOU manier."
             },
             "discover": {
-                "title": "Discover Strafe",
-                "description": "Find interests! Discover bots, spaces, and more!"
+                "title": "Ontdek Strafe",
+                "description": "Vind belangstellings! Ontdek bots, ruimtes, en meer!"
             },
             "settings": {
-                "title": "Explore Settings",
-                "description": "Use Strafe YOUR way, customize your experience."
+                "title": "Ontdek Instellings",
+                "description": "Gebruik Strafe op JOU manier, pas jou ervaring aan."
             },
             "updated": {
-                "title": "Stay Updated",
-                "description": "Join the official Strafe Space to stay updated!"
+                "title": "Bly Ingelig",
+                "description": "Sluit aan by die offisieel Strafe Ruimte om ingelig te bly!"
             }
         },
         "latest_updates": {
-            "title": "Latest Updates"
+            "title": "Laatste Veranderinge"
         }
     },
     "friends_page": {
-        "header": "Friends"
+        "header": "Vriende"
     },
     "notes_page": {
-        "header": "Notes"
+        "header": "Notas"
     },
     "pm_page": {
-        "message_placeholder": "Message @{display_name}"
+        "message_placeholder": "Stuur 'n boodskap vir @{display_name}"
     },
     "space": {
         "room": {
-            "message_placeholder": "Message #{channel_name}"
+            "message_placeholder": "Stuur 'n boodskap in #{channel_name}"
         }
     },
     "modals": {
         "create_space": {
-            "title": "Create Space",
+            "title": "Maak 'n Ruimte",
             "input": {
-                "title": "Space Name",
-                "placeholder": "My Awesome Space"
+                "title": "Ruimte Naam",
+                "placeholder": "My Wonderlike Ruimte"
             },
             "buttons": {
-                "create": "Create",
-                "cancel": "Cancel"
+                "create": "Skep",
+                "cancel": "Kanselleer"
             },
-            "switch": "Join a Space instead?"
+            "switch": "Sluit eerder by 'n Ruimte aan?"
         },
         "join_space": {
-            "title": "Join a space",
+            "title": "Sluit aan by 'n ruimte",
             "input": {
-                "title": "Invite Code",
+                "title": "Uitnodiging Kode",
                 "placeholder": "1a2b3c"
             },
             "buttons": {
-                "join": "Join",
-                "cancel": "Cancel"
+                "join": "Sluit aan",
+                "cancel": "Kanselleer"
             },
-            "switch": "Create a space instead?"
+            "switch": "Maak eerder 'n ruimte?"
         },
         "custom_status": {
-            "title": "Set a custom status",
+            "title": "Stel 'n persoonlike status",
             "buttons": {
-                "save": "Save",
-                "cancel": "Cancel"
+                "save": "Stoor",
+                "cancel": "Kanselleer"
             }
         },
         "settings": {
             "navbar": {
                 "user_settings": {
-                    "header": "User Settings",
-                    "my_account": "My Account",
-                    "profile": "Profile",
-                    "authorized_apps": "Authorized Apps"
+                    "header": "Gebruiker Instellings",
+                    "my_account": "My Rekening",
+                    "profile": "Profiel",
+                    "authorized_apps": "Goedkeur Apps"
                 },
                 "app_settings": {
-                    "header": "App Settings",
-                    "notifications": "Notifications",
-                    "desktop": "Desktop"
+                    "header": "Toep Instellings",
+                    "notifications": "Kennisgewings",
+                    "desktop": "Werkskerm"
                 },
                 "others": {
-                    "logout": "Logout"
+                    "logout": "Uitteken"
                 }
             },
             "my_account": {
-                "header": "My Account",
+                "header": "My Rekening",
                 "edit_data_01": {
                     "username": {
-                        "title": "Username",
+                        "title": "Gebruikersnaam",
                         "buttons": {
-                            "edit": "Edit"
+                            "edit": "Redigeer"
                         }
                     },
                     "discriminator": {
