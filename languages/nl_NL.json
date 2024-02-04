@@ -73,7 +73,7 @@
             "title": "Gepersonaliseerde status instellen",
             "buttons": {
                 "save": "Opslaan",
-                "cancel": "Annuleren"
+                "cancel": "Terug"
             }
         },
         "settings": {
