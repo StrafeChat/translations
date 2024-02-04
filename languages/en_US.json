@@ -23,7 +23,7 @@
             },
             "updated": {
                 "title": "Stay Updated",
-                "description": "Join the official Strafe Space to stay updated!"
+                "description": "Join the official Strafe Space to stay updated!"                
             }
         },
         "latest_updates": {
@@ -134,10 +134,11 @@
                         "disabled": "Disabled"
                     },
                     "buttons": {
-                        "delete_account": {
-                            "title": "Delete Account"
-                        }
+
+                    "delete_account": {
+                        "title": "Delete Account"
                     }
+                  }
                 }
             },
             "profile": {
