@@ -6,7 +6,7 @@
             "afternoon": "Goeie Middag, {display_name}.",
             "evening": "Goeie Aand, {display_name}. ",
             "night": "Goeie Aand, {display_name}.",
-            "welcome": " Welcome to Strafe, let's get started."
+            "welcome": "Welcome to Strafe, let's get started."
         },
         "nav_buttons": {
             "create_space": {
@@ -99,7 +99,7 @@
                     "username": {
                         "title": "Gebruikersnaam",
                         "buttons": {
-                            "edit": "Redigeer"
+                            "edit": "Verander"
                         }
                     },
                     "discriminator": {
