@@ -2,10 +2,10 @@
     "home_page": {
         "header": "Acceuil",
         "greeting": {
-            "morning": "Bonjour, {display_name}.",
-            "afternoon": "Bonjour, {display_name}.",
-            "evening": "Bonjour, {display_name}. ",
-            "night": "Bonsoir, {display_name}.",
+            "morning": "Good Morning, {display_name}.",
+            "afternoon": "Good Afternoon, {display_name}.",
+            "evening": "Good Evening, {display_name}. ",
+            "night": "Good Night, {display_name}.",
             "welcome": " Bienvenue sur Strafe, tout d'abord, préparons-nous."
         },
         "nav_buttons": {
@@ -18,7 +18,7 @@
                 "description": "Trouvez des centres d'intérêt! Découvrez des bots, des espaces et bien plus encore!"
             },
             "settings": {
-                "title": "Paramètrages",
+                "title": "Explorez les paramètres",
                 "description": "Utilisez Strafe par VOTRE chemin et personnalisez votre expérience."
             },
             "updated": {
