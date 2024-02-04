@@ -99,7 +99,7 @@
                     "username": {
                         "title": "Gebruikersnaam",
                         "buttons": {
-                            "edit": "Verander"
+                            "edit": "Redigeer"
                         }
                     },
                     "discriminator": {
