@@ -2,11 +2,11 @@
     "home_page": {
         "header": "Zuhause",
         "greeting": {
-            "morning": "Good Morning, {display_name}.",
-            "afternoon": "Good Afternoon, {display_name}.",
-            "evening": "Good Evening, {display_name}. ",
-            "night": "Good Night, {display_name}.",
-            "welcome": " Welcome to Strafe, let's get started."
+            "morning": "Guten Morgen, {display_name}.",
+            "afternoon": "Guten Nachmittag, {display_name}.",
+            "evening": "Guten Abend, {display_name}. ",
+            "night": "Gute Nacht, {display_name}.",
+            "welcome": "Welcome to Strafe, let's get started."
         },
         "nav_buttons": {
             "create_space": {
