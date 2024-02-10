@@ -72,7 +72,7 @@
         "custom_status": {
             "title": "Définir un statut personnalisé",
             "buttons": {
-                "save": "Enregistrer",
+                "save": "Sauvegarder",
                 "cancel": "Annuler"
             }
         },
