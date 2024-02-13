@@ -1,168 +1,168 @@
 {
     "home_page": {
-        "header": "Home",
+        "header": "Haim",
         "greeting": {
-            "morning": "Good Morning, {display_name}.",
-            "afternoon": "Good Afternoon, {display_name}.",
-            "evening": "Good Evening, {display_name}. ",
-            "night": "Good Night, {display_name}.",
+            "morning": "Gud Mornin, {display_name}.",
+            "afternoon": "Gud Aftanoon, {display_name}.",
+            "evening": "Gud Evenin, {display_name}. ",
+            "night": "Gud Nite, {display_name}.",
             "welcome": "Welcome to Strafe, let's get started."
         },
         "nav_buttons": {
             "create_space": {
-                "title": "Create a Space",
-                "description": "Build and customize YOUR comunity, YOUR way."
+                "title": "Creayt a Space",
+                "description": "Construct an tailor YOUR community, YOUR method."
             },
             "discover": {
-                "title": "Discover Strafe",
-                "description": "Find interests! Discover bots, spaces, and more!"
+                "title": "Unvail Strafe",
+                "description": "Seak passions! Unvail bots, spaces, and beyond!"
             },
             "settings": {
-                "title": "Explore Settings",
-                "description": "Use Strafe YOUR way, customize your experience."
+                "title": "Examin Settins",
+                "description": "Employ Strafe YOUR method, tailor your journey."
             },
             "updated": {
-                "title": "Stay Updated",
-                "description": "Join the official Strafe Space to stay updated!"
+                "title": "Remain Informed",
+                "description": "Unite wit da offishal Strafe Space to stay informed!"
             }
         },
         "latest_updates": {
-            "title": "Latest Updates"
+            "title": "Most Recent Revisions"
         }
     },
     "friends_page": {
-        "header": "Friends"
+        "header": "Kinn"
     },
     "notes_page": {
-        "header": "Notes"
+        "header": "Notins"
     },
     "pm_page": {
-        "message_placeholder": "Message @{display_name}"
+        "message_placeholder": "Notin @{display_name}"
     },
     "space": {
         "room": {
-            "message_placeholder": "Message #{channel_name}"
+            "message_placeholder": "Notin #{channel_name}"
         }
     },
     "modals": {
         "create_space": {
-            "title": "Create Space",
+            "title": "Creayt Space",
             "input": {
-                "title": "Space Name",
-                "placeholder": "My Awesome Space"
+                "title": "Space Nam",
+                "placeholder": "Mai Wondar Space"
             },
             "buttons": {
-                "create": "Create",
-                "cancel": "Cancel"
+                "create": "Creayt",
+                "cancel": "Cansel"
             },
-            "switch": "Join a Space instead?"
+            "switch": "Join a Space instaed?"
         },
         "join_space": {
             "title": "Join a space",
             "input": {
-                "title": "Invite Code",
+                "title": "Invait Kode",
                 "placeholder": "1a2b3c"
             },
             "buttons": {
                 "join": "Join",
-                "cancel": "Cancel"
+                "cancel": "Cansel"
             },
-            "switch": "Create a space instead?"
+            "switch": "Creayt a space instaed?"
         },
         "custom_status": {
-            "title": "Set a custom status",
+            "title": "Set a persanol staitus",
             "buttons": {
-                "save": "Save",
-                "cancel": "Cancel"
+                "save": "Sav",
+                "cancel": "Cansel"
             }
         },
         "settings": {
             "navbar": {
                 "user_settings": {
-                    "header": "User Settings",
-                    "my_account": "My Account",
-                    "profile": "Profile",
-                    "authorized_apps": "Authorized Apps"
+                    "header": "Yusar Setins",
+                    "my_account": "Mai Akownt",
+                    "profile": "Profil",
+                    "authorized_apps": "Authorizd Apz"
                 },
                 "app_settings": {
-                    "header": "App Settings",
-                    "notifications": "Notifications",
-                    "desktop": "Desktop"
+                    "header": "Ap Setins",
+                    "notifications": "Notifikeishans",
+                    "desktop": "Dasktop"
                 },
                 "others": {
-                    "logout": "Logout"
+                    "logout": "Logawt"
                 }
             },
             "my_account": {
-                "header": "My Account",
+                "header": "Mai Akownt",
                 "edit_data_01": {
                     "username": {
-                        "title": "Username",
+                        "title": "Yusarnam",
                         "buttons": {
-                            "edit": "Edit"
+                            "edit": "Edyt"
                         }
                     },
                     "discriminator": {
-                        "title": "Discriminator",
+                        "title": "Discremanator",
                         "buttons": {
-                            "edit": "Edit"
+                            "edit": "Edyt"
                         }
                     },
                     "email": {
-                        "title": "Email",
+                        "title": "Eimel",
                         "buttons": {
-                            "edit": "Edit"
+                            "edit": "Edyt"
                         }
                     },
                     "password": {
-                        "title": "Password",
+                        "title": "Pasword",
                         "buttons": {
-                            "edit": "Edit"
+                            "edit": "Edyt"
                         }
                     },
                     "phone_number": {
-                        "title": "Phone Number",
-                        "placeholder": "No Phone Number Set",
+                        "title": "Fone Numbar",
+                        "placeholder": "No Fone Numbar Set",
                         "buttons": {
-                            "edit": "Edit"
+                            "edit": "Edyt"
                         }
                     }
                 },
                 "edit-data-02": {
                     "2fa": {
-                        "enabled": "Enabled",
-                        "disabled": "Disabled"
+                        "enabled": "Inaybled",
+                        "disabled": "Disaybled"
                     },
                     "buttons": {
                         "delete_account": {
-                            "title": "Delete Account"
+                            "title": "Dileet Akownt"
                         }
                     }
                 }
             },
             "profile": {
-                "header": "Profile"
+                "header": "Profil"
             },
             "authorized_apps": {
-                "header": "Authorized Apps"
+                "header": "Authorizd Apz"
             },
             "notifications": {
-                "header": "Notifications"
+                "header": "Notifikeishans"
             },
             "desktop": {
-                "header": "Desktop"
+                "header": "Dasktop"
             }
         }
     },
     "context_menus": {
         "user_avatar": {
-            "settings": "Settings",
-            "online": "Online",
-            "idle": "Idle",
-            "coding": "Coding",
-            "do_not_disturb": "Do Not Disturb",
-            "invisible": "Invisible",
-            "custom_status": "Custom Status"
+            "settings": "Settins",
+            "online": "Onlain",
+            "idle": "Aidol",
+            "coding": "Kodyng",
+            "do_not_disturb": "Do Not Disstorb",
+            "invisible": "Invisibl",
+            "custom_status": "Persanol Staitus"
         }
     }
 }
