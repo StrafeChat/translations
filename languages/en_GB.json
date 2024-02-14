@@ -11,23 +11,23 @@
         "nav_buttons": {
             "create_space": {
                 "title": "Make a Space",
-                "description": "Build and customize YOUR comunity, YOUR way."
+                "description": "Build and customise YOUR community, YOUR way."
             },
             "discover": {
                 "title": "Discover Strafe",
-                "description": "Find interests! Discover bots, spaces, and more!"
+                "description": "Find your interests! Discover bots, spaces, and more!"
             },
             "settings": {
-                "title": "Explore Settings",
-                "description": "Use Strafe YOUR way, customize your experience."
+                "title": "Explore the Settings",
+                "description": "Use Strafe YOUR way and customise your experience."
             },
             "updated": {
-                "title": "Stay Updated",
+                "title": "Stay in the loop",
                 "description": "Join the official Strafe Space to stay updated!"
             }
         },
         "latest_updates": {
-            "title": "Latest Updates"
+            "title": "Newest Updates"
         }
     },
     "friends_page": {
@@ -46,7 +46,7 @@
     },
     "modals": {
         "create_space": {
-            "title": "Create Space",
+            "title": "Make a Space",
             "input": {
                 "title": "Space Name",
                 "placeholder": "My Awesome Space"
@@ -70,7 +70,7 @@
             "switch": "Create a space instead?"
         },
         "custom_status": {
-            "title": "Set a custom status",
+            "title": "Set a status",
             "buttons": {
                 "save": "Save",
                 "cancel": "Cancel"
@@ -80,9 +80,9 @@
             "navbar": {
                 "user_settings": {
                     "header": "User Settings",
-                    "my_account": "My Account",
+                    "my_account": "Account",
                     "profile": "Profile",
-                    "authorized_apps": "Authorized Apps"
+                    "authorized_apps": "Authorised Apps"
                 },
                 "app_settings": {
                     "header": "App Settings",
@@ -90,11 +90,11 @@
                     "desktop": "Desktop"
                 },
                 "others": {
-                    "logout": "Logout"
+                    "logout": "Sign Out"
                 }
             },
             "my_account": {
-                "header": "My Account",
+                "header": "Account",
                 "edit_data_01": {
                     "username": {
                         "title": "Username",
@@ -144,7 +144,7 @@
                 "header": "Profile"
             },
             "authorized_apps": {
-                "header": "Authorized Apps"
+                "header": "Authorised Apps"
             },
             "notifications": {
                 "header": "Notifications"
@@ -162,7 +162,7 @@
             "coding": "Coding",
             "do_not_disturb": "Do Not Disturb",
             "invisible": "Invisible",
-            "custom_status": "Custom Status"
+            "custom_status": "Status"
         }
     }
 }
