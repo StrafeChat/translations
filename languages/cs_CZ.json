@@ -1,168 +1,168 @@
 {
     "home_page": {
-        "header": "Home",
+        "header": "Domů",
         "greeting": {
-            "morning": "Good Morning, {display_name}.",
-            "afternoon": "Good Afternoon, {display_name}.",
-            "evening": "Good Evening, {display_name}. ",
-            "night": "Good Night, {display_name}.",
+            "morning": "Dobré ráno, {display_name}.",
+            "afternoon": "Dobré odpoledne, {display_name}.",
+            "evening": "Dobré evening, {display_name}. ",
+            "night": "Dobrá noc, {display_name}.",
             "welcome": " Welcome to Strafe, let's get started."
         },
         "nav_buttons": {
             "create_space": {
-                "title": "Create a Space",
-                "description": "Build and customize YOUR comunity, YOUR way."
+                "title": "Vytvořit prostor",
+                "description": "Sestavte a přizpůsobte si tvou komunitu, VAŠE cestu."
             },
             "discover": {
                 "title": "Discover Strafe",
-                "description": "Find interests! Discover bots, spaces, and more!"
+                "description": "Najděte zájem! Objevte boty, mezery a další!"
             },
             "settings": {
-                "title": "Explore Settings",
-                "description": "Use Strafe YOUR way, customize your experience."
+                "title": "Prozkoumat nastavení",
+                "description": "Použij Strafe YOUR a přizpůsobte si svůj zážitek."
             },
             "updated": {
-                "title": "Stay Updated",
-                "description": "Join the official Strafe Space to stay updated!"
+                "title": "Zůstat aktualizován",
+                "description": "Připojte se k oficiálnímu Strafe prostoru a zůstaňte aktualizováni!"
             }
         },
         "latest_updates": {
-            "title": "Latest Updates"
+            "title": "Nejnovější aktualizace"
         }
     },
     "friends_page": {
-        "header": "Friends"
+        "header": "Přátelé"
     },
     "notes_page": {
-        "header": "Notes"
+        "header": "Poznámky"
     },
     "pm_page": {
-        "message_placeholder": "Message @{display_name}"
+        "message_placeholder": "Zpráva @{display_name}"
     },
     "space": {
         "room": {
-            "message_placeholder": "Message #{channel_name}"
+            "message_placeholder": "Zpráva #{channel_name}"
         }
     },
     "modals": {
         "create_space": {
-            "title": "Create Space",
+            "title": "Vytvořit prostor",
             "input": {
-                "title": "Space Name",
-                "placeholder": "My Awesome Space"
+                "title": "Název skupiny",
+                "placeholder": "Můj úžasný prostor"
             },
             "buttons": {
-                "create": "Create",
-                "cancel": "Cancel"
+                "create": "Vytvořit",
+                "cancel": "Zrušit"
             },
-            "switch": "Join a Space instead?"
+            "switch": "Připojit se k místu?"
         },
         "join_space": {
-            "title": "Join a space",
+            "title": "Připojte se ke skupině",
             "input": {
-                "title": "Invite Code",
+                "title": "Kód pozvánky",
                 "placeholder": "1a2b3c"
             },
             "buttons": {
-                "join": "Join",
-                "cancel": "Cancel"
+                "join": "Připojit se",
+                "cancel": "Zrušit"
             },
-            "switch": "Create a space instead?"
+            "switch": "Místo toho vytvořit mezeru?"
         },
         "custom_status": {
-            "title": "Set a custom status",
+            "title": "Nastavit vlastní stav",
             "buttons": {
-                "save": "Save",
-                "cancel": "Cancel"
+                "save": "Uložit",
+                "cancel": "Zrušit"
             }
         },
         "settings": {
             "navbar": {
                 "user_settings": {
-                    "header": "User Settings",
-                    "my_account": "My Account",
-                    "profile": "Profile",
-                    "authorized_apps": "Authorized Apps"
+                    "header": "Uživatelská nastavení",
+                    "my_account": "Můj účet",
+                    "profile": "Profil",
+                    "authorized_apps": "Autorizované aplikace"
                 },
                 "app_settings": {
-                    "header": "App Settings",
-                    "notifications": "Notifications",
-                    "desktop": "Desktop"
+                    "header": "Nastavení aplikace",
+                    "notifications": "Oznámení",
+                    "desktop": "Stolní počítače"
                 },
                 "others": {
-                    "logout": "Logout"
+                    "logout": "Odhlásit se"
                 }
             },
             "my_account": {
-                "header": "My Account",
+                "header": "Můj účet",
                 "edit_data_01": {
                     "username": {
-                        "title": "Username",
+                        "title": "Uživatelské jméno",
                         "buttons": {
-                            "edit": "Edit"
+                            "edit": "Upravit"
                         }
                     },
                     "discriminator": {
-                        "title": "Discriminator",
+                        "title": "Diskriminátor",
                         "buttons": {
-                            "edit": "Edit"
+                            "edit": "Upravit"
                         }
                     },
                     "email": {
-                        "title": "Email",
+                        "title": "E-mailová adresa",
                         "buttons": {
-                            "edit": "Edit"
+                            "edit": "Upravit"
                         }
                     },
                     "password": {
-                        "title": "Password",
+                        "title": "Heslo",
                         "buttons": {
-                            "edit": "Edit"
+                            "edit": "Upravit"
                         }
                     },
                     "phone_number": {
-                        "title": "Phone Number",
-                        "placeholder": "No Phone Number Set",
+                        "title": "Telefon",
+                        "placeholder": "Není nastaveno žádné telefonní číslo",
                         "buttons": {
-                            "edit": "Edit"
+                            "edit": "Upravit"
                         }
                     }
                 },
                 "edit-data-02": {
                     "2fa": {
-                        "enabled": "Enabled",
-                        "disabled": "Disabled"
+                        "enabled": "Povoleno",
+                        "disabled": "Zakázáno"
                     },
                     "buttons": {
                         "delete_account": {
-                            "title": "Delete Account"
+                            "title": "Odstranit účet"
                         }
                     }
                 }
             },
             "profile": {
-                "header": "Profile"
+                "header": "Profil"
             },
             "authorized_apps": {
-                "header": "Authorized Apps"
+                "header": "Autorizované aplikace"
             },
             "notifications": {
-                "header": "Notifications"
+                "header": "Oznámení"
             },
             "desktop": {
-                "header": "Desktop"
+                "header": "Stolní počítače"
             }
         }
     },
     "context_menus": {
         "user_avatar": {
-            "settings": "Settings",
+            "settings": "Nastavení",
             "online": "Online",
-            "idle": "Idle",
+            "idle": "Nečinný",
             "coding": "Coding",
-            "do_not_disturb": "Do Not Disturb",
-            "invisible": "Invisible",
-            "custom_status": "Custom Status"
+            "do_not_disturb": "Režim Nerušit",
+            "invisible": "Neviditelné",
+            "custom_status": "Vlastní stav"
         }
     }
 }
