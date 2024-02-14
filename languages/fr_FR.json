@@ -3,9 +3,9 @@
         "header": "Acceuil",
         "greeting": {
             "morning": "Bonjour, {display_name}.",
-            "afternoon": "Bonjour, {display_name}.",
-            "evening": "Bonjour, {display_name}. ",
-            "night": "Bonsoir, {display_name}.",
+            "afternoon": "Bon après-midi, {display_name}.",
+            "evening": "Bonne soirée, {display_name}. ",
+            "night": "Bonne Nuit, {display_name}.",
             "welcome": " Bienvenue sur Strafe, tout d'abord, préparons-nous."
         },
         "nav_buttons": {
