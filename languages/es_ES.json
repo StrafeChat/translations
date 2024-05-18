@@ -1,58 +1,58 @@
 {
     "home_page": {
-        "header": "Home",
+        "header": "Inicio",
         "greeting": {
-            "morning": "Good Morning, {display_name}.",
-            "afternoon": "Good Afternoon, {display_name}.",
-            "evening": "Good Evening, {display_name}. ",
-            "night": "Good Night, {display_name}.",
+            "morning": "Buenos días, {display_name}.",
+            "afternoon": "Buenas tardes, {display_name}.",
+            "evening": "Buenas tardes, {display_name}. ",
+            "night": "Buenas noches, {display_name}.",
             "welcome": " Welcome to Strafe, let's get started."
         },
         "nav_buttons": {
             "create_space": {
-                "title": "Create a Space",
-                "description": "Build and customize YOUR community, YOUR way."
+                "title": "Crear un espacio",
+                "description": "Construye y personaliza TU comunidad a TU manera."
             },
             "discover": {
-                "title": "Discover Strafe",
-                "description": "Find interests! Discover bots, spaces, and more!"
+                "title": "Descubre Strafe",
+                "description": "¡Encuentra intereses! ¡Descubre bots, espacios y más!"
             },
             "settings": {
-                "title": "Explore Settings",
-                "description": "Use Strafe YOUR way, customize your experience."
+                "title": "Explorar ajustes",
+                "description": "Usa Strafe a TU manera, personaliza tu experiencia."
             },
             "updated": {
-                "title": "Stay Updated",
-                "description": "Join the official Strafe Space to stay updated!"
+                "title": "Mantente actualizado",
+                "description": "¡Únete al espacio oficial de Strafe para estar actualizado!"
             }
         },
         "latest_updates": {
-            "title": "Latest Updates"
+            "title": "Últimas actualizaciones"
         }
     },
     "friends_page": {
-        "header": "Friends"
+        "header": "Amigos"
     },
     "notes_page": {
-        "header": "Notes"
+        "header": "Notas"
     },
     "pm_page": {
-        "message_placeholder": "Message @{display_name}"
+        "message_placeholder": "Envía un mensaje a @{display_name}"
     },
     "space": {
         "room": {
-            "message_placeholder": "Message #{channel_name}"
+            "message_placeholder": "Envía un mensaje en #{channel_name}"
         }
     },
     "modals": {
         "create_space": {
-            "title": "Create Space",
+            "title": "Crea un espacio",
             "input": {
-                "title": "Space Name",
-                "placeholder": "My Awesome Space"
+                "title": "Nombre del espacio",
+                "placeholder": "Mi impresionante espacio"
             },
             "buttons": {
-                "create": "Create",
+                "create": "Crear",
                 "cancel": "Cancel"
             },
             "switch": "Join a Space instead?"
