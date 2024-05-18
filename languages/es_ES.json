@@ -53,116 +53,116 @@
             },
             "buttons": {
                 "create": "Crear",
-                "cancel": "Cancel"
+                "cancel": "Cancelar"
             },
-            "switch": "Join a Space instead?"
+            "switch": "¿Unirse a un espacio existente?"
         },
         "join_space": {
-            "title": "Join a space",
+            "title": "Únete a un espacio",
             "input": {
-                "title": "Invite Code",
+                "title": "Código de Invitación",
                 "placeholder": "1a2b3c"
             },
             "buttons": {
-                "join": "Join",
-                "cancel": "Cancel"
+                "join": "Unirse",
+                "cancel": "Cancelar"
             },
-            "switch": "Create a space instead?"
+            "switch": "¿Crear un nuevo espacio?"
         },
         "custom_status": {
-            "title": "Set a custom status",
+            "title": "Establecer un estado personalizado",
             "buttons": {
-                "save": "Save",
-                "cancel": "Cancel"
+                "save": "Guardar",
+                "cancel": "Cancelar"
             }
         },
         "settings": {
             "navbar": {
                 "user_settings": {
-                    "header": "User Settings",
-                    "my_account": "My Account",
-                    "profile": "Profile",
-                    "authorized_apps": "Authorized Apps"
+                    "header": "Ajustes de usuario",
+                    "my_account": "Mi cuenta",
+                    "profile": "Perfil",
+                    "authorized_apps": "Aplicaciones autorizadas"
                 },
                 "app_settings": {
-                    "header": "App Settings",
-                    "notifications": "Notifications",
-                    "desktop": "Desktop"
+                    "header": "Ajustes de la aplicación",
+                    "notifications": "Notificaciones",
+                    "desktop": "Escritorio"
                 },
                 "others": {
-                    "logout": "Logout"
+                    "logout": "Cerrar sesión"
                 }
             },
             "my_account": {
-                "header": "My Account",
+                "header": "Mi cuenta",
                 "edit_data_01": {
                     "username": {
-                        "title": "Username",
+                        "title": "Nombre de usuario",
                         "buttons": {
-                            "edit": "Edit"
+                            "edit": "Editar"
                         }
                     },
                     "discriminator": {
-                        "title": "Discriminator",
+                        "title": "Etiqueta de usuario",
                         "buttons": {
-                            "edit": "Edit"
+                            "edit": "Editar"
                         }
                     },
                     "email": {
-                        "title": "Email",
+                        "title": "Correo electrónico",
                         "buttons": {
-                            "edit": "Edit"
+                            "edit": "Editar"
                         }
                     },
                     "password": {
-                        "title": "Password",
+                        "title": "Contraseña",
                         "buttons": {
-                            "edit": "Edit"
+                            "edit": "Editar"
                         }
                     },
                     "phone_number": {
-                        "title": "Phone Number",
-                        "placeholder": "No Phone Number Set",
+                        "title": "Número de teléfono",
+                        "placeholder": "Ningún número de teléfono establecido",
                         "buttons": {
-                            "edit": "Edit"
+                            "edit": "Editar"
                         }
                     }
                 },
                 "edit-data-02": {
                     "2fa": {
-                        "enabled": "Enabled",
-                        "disabled": "Disabled"
+                        "enabled": "Activado",
+                        "disabled": "Desactivado"
                     },
                     "buttons": {
                         "delete_account": {
-                            "title": "Delete Account"
+                            "title": "Eliminar cuenta"
                         }
                     }
                 }
             },
             "profile": {
-                "header": "Profile"
+                "header": "Perfil"
             },
             "authorized_apps": {
-                "header": "Authorized Apps"
+                "header": "Aplicaciones autorizadas"
             },
             "notifications": {
-                "header": "Notifications"
+                "header": "Notificaciones"
             },
             "desktop": {
-                "header": "Desktop"
+                "header": "Escritorio"
             }
         }
     },
     "context_menus": {
         "user_avatar": {
-            "settings": "Settings",
-            "online": "Online",
-            "idle": "Idle",
-            "coding": "Coding",
-            "do_not_disturb": "Do Not Disturb",
+            "settings": "Ajustes",
+            "online": "En línea",
+            "idle": "Inactivo",
+            "coding": "Programando",
+            "do_not_disturb": "No molestar",
             "invisible": "Invisible",
-            "custom_status": "Custom Status"
+            "custom_status": "Estado personalizado"
         }
     }
 }
