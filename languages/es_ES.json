@@ -6,7 +6,7 @@
             "afternoon": "Buenas tardes, {display_name}.",
             "evening": "Buenas tardes, {display_name}. ",
             "night": "Buenas noches, {display_name}.",
-            "welcome": " Welcome to Strafe, let's get started."
+            "welcome": "Welcome to Strafe, let's get started."
         },
         "nav_buttons": {
             "create_space": {
@@ -37,11 +37,11 @@
         "header": "Notas"
     },
     "pm_page": {
-        "message_placeholder": "Envía un mensaje a @{display_name}"
+        "message_placeholder": "Mensaje @{display_name}"
     },
     "space": {
         "room": {
-            "message_placeholder": "Envía un mensaje en #{channel_name}"
+            "message_placeholder": "Mensaje #{channel_name}"
         }
     },
     "modals": {
