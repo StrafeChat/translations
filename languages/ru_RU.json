@@ -73,96 +73,96 @@
             "title": "Задать пользовательский статус",
             "buttons": {
                 "save": "Сохранить",
-                "cancel": "Cancel"
+                "cancel": "Отмена"
             }
         },
         "settings": {
             "navbar": {
                 "user_settings": {
-                    "header": "User Settings",
-                    "my_account": "My Account",
-                    "profile": "Profile",
-                    "authorized_apps": "Authorized Apps"
+                    "header": "Настройки пользователя",
+                    "my_account": "Мой аккаунт",
+                    "profile": "Профиль",
+                    "authorized_apps": "Авторизированные приложения"
                 },
                 "app_settings": {
-                    "header": "App Settings",
-                    "notifications": "Notifications",
-                    "desktop": "Desktop"
+                    "header": "Настройки приложения",
+                    "notifications": "Уведомления",
+                    "desktop": "Рабочий стол"
                 },
                 "others": {
-                    "logout": "Logout"
+                    "logout": "Выйти"
                 }
             },
             "my_account": {
-                "header": "My Account",
+                "header": "Мой аккаунт",
                 "edit_data_01": {
                     "username": {
-                        "title": "Username",
+                        "title": "Имя пользователя",
                         "buttons": {
-                            "edit": "Edit"
+                            "edit": "Изменить"
                         }
                     },
                     "discriminator": {
-                        "title": "Discriminator",
+                        "title": "Тег",
                         "buttons": {
-                            "edit": "Edit"
+                            "edit": "Изменить"
                         }
                     },
                     "email": {
-                        "title": "Email",
+                        "title": "Эл. почта",
                         "buttons": {
-                            "edit": "Edit"
+                            "edit": "Изменить"
                         }
                     },
                     "password": {
-                        "title": "Password",
+                        "title": "Пароль",
                         "buttons": {
-                            "edit": "Edit"
+                            "edit": "Изменить"
                         }
                     },
                     "phone_number": {
-                        "title": "Phone Number",
-                        "placeholder": "No Phone Number Set",
+                        "title": "Номер телефона",
+                        "placeholder": "Номер не задан",
                         "buttons": {
-                            "edit": "Edit"
+                            "edit": "Изменить"
                         }
                     }
                 },
                 "edit-data-02": {
                     "2fa": {
-                        "enabled": "Enabled",
-                        "disabled": "Disabled"
+                        "enabled": "Включена",
+                        "disabled": "Не настроена"
                     },
                     "buttons": {
                         "delete_account": {
-                            "title": "Delete Account"
+                            "title": "Удалить аккаунт"
                         }
                     }
                 }
             },
             "profile": {
-                "header": "Profile"
+                "header": "Профиль"
             },
             "authorized_apps": {
-                "header": "Authorized Apps"
+                "header": "Авторизированные приложения"
             },
             "notifications": {
-                "header": "Notifications"
+                "header": "Уведомления"
             },
             "desktop": {
-                "header": "Desktop"
+                "header": "Компьютер"
             }
         }
     },
     "context_menus": {
         "user_avatar": {
-            "settings": "Settings",
-            "online": "Online",
-            "idle": "Idle",
-            "coding": "Coding",
-            "do_not_disturb": "Do Not Disturb",
-            "invisible": "Invisible",
-            "custom_status": "Custom Status"
+            "settings": "Настройки",
+            "online": "В сети",
+            "idle": "Отошли",
+            "coding": "Пишу код",
+            "do_not_disturb": "Не беспокоить",
+            "invisible": "Невидимый",
+            "custom_status": "Пользовательский"
         }
     }
 }
