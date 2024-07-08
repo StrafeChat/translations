@@ -1,78 +1,78 @@
 {
     "home_page": {
-        "header": "Home",
+        "header": "Домашняя",
         "greeting": {
-            "morning": "Good Morning, {display_name}.",
-            "afternoon": "Good Afternoon, {display_name}.",
-            "evening": "Good Evening, {display_name}. ",
-            "night": "Good Night, {display_name}.",
-            "welcome": " Welcome to Strafe, let's get started."
+            "morning": "Доброе утро, {display_name}.",
+            "afternoon": "Добрый день, {display_name}.",
+            "evening": "Добрый вечер, {display_name}. ",
+            "night": "Доброй ночи, {display_name}.",
+            "welcome": "Добро пожаловать в Strafe, давайте начнём."
         },
         "nav_buttons": {
             "create_space": {
-                "title": "Create a Space",
-                "description": "Build and customize YOUR community, YOUR way."
+                "title": "Создать пространство",
+                "description": "Соберите и настройте ВАШЕ сообщество, как ВЫ хотите."
             },
             "discover": {
-                "title": "Discover Strafe",
-                "description": "Find interests! Discover bots, spaces, and more!"
+                "title": "Исследовать Strafe",
+                "description": "Найдите интересы! Исследуйте ботов, пространства и другое!"
             },
             "settings": {
-                "title": "Explore Settings",
-                "description": "Use Strafe YOUR way, customize your experience."
+                "title": "Загляните в настройки",
+                "description": "Используйте Strafe как ВЫ хотите, персонализируйте ваш опыт."
             },
             "updated": {
-                "title": "Stay Updated",
-                "description": "Join the official Strafe Space to stay updated!"
+                "title": "Оставайтесь в курсе",
+                "description": "Присоединитесь к официальному пространству Strafe, чтобы всегда узнавать об обновлениях!"
             }
         },
         "latest_updates": {
-            "title": "Latest Updates"
+            "title": "Последние обновления"
         }
     },
     "friends_page": {
-        "header": "Friends"
+        "header": "Друзья"
     },
     "notes_page": {
-        "header": "Notes"
+        "header": "Заметки"
     },
     "pm_page": {
-        "message_placeholder": "Message @{display_name}"
+        "message_placeholder": "Написать @{display_name}"
     },
     "space": {
         "room": {
-            "message_placeholder": "Message #{channel_name}"
+            "message_placeholder": "Написать в #{channel_name}"
         }
     },
     "modals": {
         "create_space": {
-            "title": "Create Space",
+            "title": "Создать пространство",
             "input": {
-                "title": "Space Name",
-                "placeholder": "My Awesome Space"
+                "title": "Название пространства",
+                "placeholder": "Моё отличное пространство"
             },
             "buttons": {
-                "create": "Create",
-                "cancel": "Cancel"
+                "create": "Создать",
+                "cancel": "Отмена"
             },
-            "switch": "Join a Space instead?"
+            "switch": "Или, может, присоединиться к пространству?"
         },
         "join_space": {
-            "title": "Join a space",
+            "title": "Присоединится к пространству",
             "input": {
-                "title": "Invite Code",
+                "title": "Код приглашения",
                 "placeholder": "1a2b3c"
             },
             "buttons": {
-                "join": "Join",
-                "cancel": "Cancel"
+                "join": "Присоединится",
+                "cancel": "Отмена"
             },
-            "switch": "Create a space instead?"
+            "switch": "А, может, создать пространство?"
         },
         "custom_status": {
-            "title": "Set a custom status",
+            "title": "Задать пользовательский статус",
             "buttons": {
-                "save": "Save",
+                "save": "Сохранить",
                 "cancel": "Cancel"
             }
         },
