@@ -46,7 +46,7 @@
     },
     "modals": {
         "create_space": {
-            "title": "Create Space",
+            "title": "Create Space ",
             "input": {
                 "title": "Space Name",
                 "placeholder": "My Awesome Space"
