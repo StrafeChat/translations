@@ -1,168 +1,168 @@
 {
     "home_page": {
-        "header": "Home",
+        "header": "Inicio",
         "greeting": {
-            "morning": "Good Morning, {display_name}.",
-            "afternoon": "Good Afternoon, {display_name}.",
-            "evening": "Good Evening, {display_name}. ",
-            "night": "Good Night, {display_name}.",
-            "welcome": " Welcome to Strafe, let's get started."
+            "morning": "Buenos días, {display_name}.",
+            "afternoon": "Buenas tardes, {display_name}.",
+            "evening": "Buenas tardes, {display_name}. ",
+            "night": "Buenas noches, {display_name}.",
+            "welcome": "Welcome to Strafe, let's get started."
         },
         "nav_buttons": {
             "create_space": {
-                "title": "Create a Space",
-                "description": "Build and customize YOUR community, YOUR way."
+                "title": "Crear un espacio",
+                "description": "Construye y personaliza TU comunidad a TU manera."
             },
             "discover": {
-                "title": "Discover Strafe",
-                "description": "Find interests! Discover bots, spaces, and more!"
+                "title": "Descubre Strafe",
+                "description": "¡Encuentra intereses! ¡Descubre bots, espacios y más!"
             },
             "settings": {
-                "title": "Explore Settings",
-                "description": "Use Strafe YOUR way, customize your experience."
+                "title": "Explorar ajustes",
+                "description": "Usa Strafe a TU manera, personaliza tu experiencia."
             },
             "updated": {
-                "title": "Stay Updated",
-                "description": "Join the official Strafe Space to stay updated!"
+                "title": "Mantente actualizado",
+                "description": "¡Únete al espacio oficial de Strafe para estar actualizado!"
             }
         },
         "latest_updates": {
-            "title": "Latest Updates"
+            "title": "Últimas actualizaciones"
         }
     },
     "friends_page": {
-        "header": "Friends"
+        "header": "Amigos"
     },
     "notes_page": {
-        "header": "Notes"
+        "header": "Notas"
     },
     "pm_page": {
-        "message_placeholder": "Message @{display_name}"
+        "message_placeholder": "Mensaje @{display_name}"
     },
     "space": {
         "room": {
-            "message_placeholder": "Message #{channel_name}"
+            "message_placeholder": "Mensaje #{channel_name}"
         }
     },
     "modals": {
         "create_space": {
-            "title": "Create Space",
+            "title": "Crea un espacio",
             "input": {
-                "title": "Space Name",
-                "placeholder": "My Awesome Space"
+                "title": "Nombre del espacio",
+                "placeholder": "Mi impresionante espacio"
             },
             "buttons": {
-                "create": "Create",
-                "cancel": "Cancel"
+                "create": "Crear",
+                "cancel": "Cancelar"
             },
-            "switch": "Join a Space instead?"
+            "switch": "¿Unirse a un espacio existente?"
         },
         "join_space": {
-            "title": "Join a space",
+            "title": "Únete a un espacio",
             "input": {
-                "title": "Invite Code",
+                "title": "Código de Invitación",
                 "placeholder": "1a2b3c"
             },
             "buttons": {
-                "join": "Join",
-                "cancel": "Cancel"
+                "join": "Unirse",
+                "cancel": "Cancelar"
             },
-            "switch": "Create a space instead?"
+            "switch": "¿Crear un nuevo espacio?"
         },
         "custom_status": {
-            "title": "Set a custom status",
+            "title": "Establecer un estado personalizado",
             "buttons": {
-                "save": "Save",
-                "cancel": "Cancel"
+                "save": "Guardar",
+                "cancel": "Cancelar"
             }
         },
         "settings": {
             "navbar": {
                 "user_settings": {
-                    "header": "User Settings",
-                    "my_account": "My Account",
-                    "profile": "Profile",
-                    "authorized_apps": "Authorized Apps"
+                    "header": "Ajustes de usuario",
+                    "my_account": "Mi cuenta",
+                    "profile": "Perfil",
+                    "authorized_apps": "Aplicaciones autorizadas"
                 },
                 "app_settings": {
-                    "header": "App Settings",
-                    "notifications": "Notifications",
-                    "desktop": "Desktop"
+                    "header": "Ajustes de la aplicación",
+                    "notifications": "Notificaciones",
+                    "desktop": "Escritorio"
                 },
                 "others": {
-                    "logout": "Logout"
+                    "logout": "Cerrar sesión"
                 }
             },
             "my_account": {
-                "header": "My Account",
+                "header": "Mi cuenta",
                 "edit_data_01": {
                     "username": {
-                        "title": "Username",
+                        "title": "Nombre de usuario",
                         "buttons": {
-                            "edit": "Edit"
+                            "edit": "Editar"
                         }
                     },
                     "discriminator": {
-                        "title": "Discriminator",
+                        "title": "Etiqueta de usuario",
                         "buttons": {
-                            "edit": "Edit"
+                            "edit": "Editar"
                         }
                     },
                     "email": {
-                        "title": "Email",
+                        "title": "Correo electrónico",
                         "buttons": {
-                            "edit": "Edit"
+                            "edit": "Editar"
                         }
                     },
                     "password": {
-                        "title": "Password",
+                        "title": "Contraseña",
                         "buttons": {
-                            "edit": "Edit"
+                            "edit": "Editar"
                         }
                     },
                     "phone_number": {
-                        "title": "Phone Number",
-                        "placeholder": "No Phone Number Set",
+                        "title": "Número de teléfono",
+                        "placeholder": "Ningún número de teléfono establecido",
                         "buttons": {
-                            "edit": "Edit"
+                            "edit": "Editar"
                         }
                     }
                 },
                 "edit-data-02": {
                     "2fa": {
-                        "enabled": "Enabled",
-                        "disabled": "Disabled"
+                        "enabled": "Activado",
+                        "disabled": "Desactivado"
                     },
                     "buttons": {
                         "delete_account": {
-                            "title": "Delete Account"
+                            "title": "Eliminar cuenta"
                         }
                     }
                 }
             },
             "profile": {
-                "header": "Profile"
+                "header": "Perfil"
             },
             "authorized_apps": {
-                "header": "Authorized Apps"
+                "header": "Aplicaciones autorizadas"
             },
             "notifications": {
-                "header": "Notifications"
+                "header": "Notificaciones"
             },
             "desktop": {
-                "header": "Desktop"
+                "header": "Escritorio"
             }
         }
     },
     "context_menus": {
         "user_avatar": {
-            "settings": "Settings",
-            "online": "Online",
-            "idle": "Idle",
-            "coding": "Coding",
-            "do_not_disturb": "Do Not Disturb",
+            "settings": "Ajustes",
+            "online": "En línea",
+            "idle": "Inactivo",
+            "coding": "Programando",
+            "do_not_disturb": "No molestar",
             "invisible": "Invisible",
-            "custom_status": "Custom Status"
+            "custom_status": "Estado personalizado"
         }
     }
 }

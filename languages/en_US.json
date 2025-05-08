@@ -15,7 +15,7 @@
             },
             "discover": {
                 "title": "Discover Strafe",
-                "description": "Find interests! Discover bots, spaces, and more!"
+                "description": "Find interests! Discover bots, spaces and more!"
             },
             "settings": {
                 "title": "Explore Settings",
@@ -46,7 +46,7 @@
     },
     "modals": {
         "create_space": {
-            "title": "Create Space",
+            "title": "Create Space ",
             "input": {
                 "title": "Space Name",
                 "placeholder": "My Awesome Space"

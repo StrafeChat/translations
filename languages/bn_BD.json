@@ -6,7 +6,7 @@
             "afternoon": "শুভ অপরাহ্ন, {display_name}.",
             "evening": "শুভ সন্ধ্যা, {display_name}. ",
             "night": "শুভ রাত্রি, {display_name}.",
-            "welcome": " Welcome to Strafe, let's get started."
+            "welcome": "Welcome to Strafe, let's get started."
         },
         "nav_buttons": {
             "create_space": {
